@@ -1,0 +1,3 @@
+[submodule "angular-bases"]
+	path = angular-bases
+	url = https://github.com/amadoxxo/angular-bases.git
