@@ -7,3 +7,6 @@
 [submodule "countryApp"]
 	path = countryApp
 	url = https://github.com/amadoxxo/countryApp.git
+[submodule "pipesApp"]
+	path = pipesApp
+	url = https://github.com/amadoxxo/pipesApp.git
