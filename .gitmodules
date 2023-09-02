@@ -4,3 +4,6 @@
 [submodule "gifs-app"]
 	path = gifs-app
 	url = https://github.com/amadoxxo/gifs-app.git
+[submodule "countryApp"]
+	path = countryApp
+	url = https://github.com/amadoxxo/countryApp.git
